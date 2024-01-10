@@ -8,7 +8,7 @@ from heapq import heappop, heappush
 d = 265149
 # d = 9
 # d = 10
-# d = 10240
+d = 10240
 # for line in f:
 #     print(line)
 
